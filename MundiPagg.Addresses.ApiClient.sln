@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MundiPagg.Addresses.ApiClient", "MundiPagg.Addresses.ApiClient\MundiPagg.Addresses.ApiClient.csproj", "{2456B3DE-E344-4644-A1DA-A1B029E320C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MundiPagg.Addresses.ApiClient.Test", "MundiPagg.Addresses.ApiClient.Test\MundiPagg.Addresses.ApiClient.Test.csproj", "{3305BD37-EF62-4BF4-862F-6CBCA20A98AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{626F1518-A435-41F4-9EF3-F850A00D8B6B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2456B3DE-E344-4644-A1DA-A1B029E320C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2456B3DE-E344-4644-A1DA-A1B029E320C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2456B3DE-E344-4644-A1DA-A1B029E320C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2456B3DE-E344-4644-A1DA-A1B029E320C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3305BD37-EF62-4BF4-862F-6CBCA20A98AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3305BD37-EF62-4BF4-862F-6CBCA20A98AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3305BD37-EF62-4BF4-862F-6CBCA20A98AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3305BD37-EF62-4BF4-862F-6CBCA20A98AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
