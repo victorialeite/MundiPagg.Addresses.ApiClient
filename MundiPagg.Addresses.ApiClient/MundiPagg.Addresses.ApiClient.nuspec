@@ -15,10 +15,10 @@
     <copyright>Victoria Leite 2017</copyright>
     <tags>MundiPagg Address Addresses Api Client ApiClient Sdk Utility</tags>
     <dependencies>
-        <dependency id="RestSharp">
+        <dependency id="RestSharp" version="105.0.0"/>
     </dependencies>
   </metadata>
   <files>
-    <file src="MundiPagg.Addresses.ApiClient\bin\Release\MundiPagg.Addresses.ApiClient.dll" target="lib\net45" />
-  </iles>
+    <file src="bin\Release\MundiPagg.Addresses.ApiClient.dll" target="lib\net45" />
+  </files>
 </package>
