@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MundiPagg.Addresses.ApiClient</id>
+    <version>1.0.0</version>
+    <title>MundiPagg Addresses ApiClient</title>
+    <authors>Victoria Leite</authors>
+    <owners>Victoria Leite</owners>
+    <projectUrl>https://github.com/victorialeite/MundiPagg.Addresses.ApiClient</projectUrl>
+    <iconUrl>http://mpnugetserver.cloudapp.net/img/mundipagg.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An API client to use maps resource powered by MundiPagg</description>
+    <releaseNotes>
+    </releaseNotes>
+    <copyright>Victoria Leite 2017</copyright>
+    <tags>MundiPagg Address Addresses Api Client ApiClient Sdk Utility</tags>
+    <dependencies>
+        <dependency id="RestSharp">
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="MundiPagg.Addresses.ApiClient\bin\Release\MundiPagg.Addresses.ApiClient.dll" target="lib\net45" />
+  </iles>
+</package>

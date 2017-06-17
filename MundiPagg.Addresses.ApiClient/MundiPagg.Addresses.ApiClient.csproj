@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="MundiPagg.Addresses.ApiClient.nuspec" />
     <Compile Include="Enums\CountryEnum.cs" />
     <Compile Include="IAddressesClient.cs" />
     <Compile Include="AddressesClient.cs" />
